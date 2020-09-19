@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Касютина Анна](https://up.htmlacademy.ru/javascript/21/user/1326059).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Толстоног](https://htmlacademy.ru/profile/id620625).
 
 ---
 
